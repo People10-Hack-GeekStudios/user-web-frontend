@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43a53583.css",
+    "main.js": "/static/js/main.7138c5b4.js",
+    "static/js/787.9ac2c489.chunk.js": "/static/js/787.9ac2c489.chunk.js",
+    "static/media/Process.gif": "/static/media/Process.d0be15761cf7aa3b8b82.gif",
+    "static/media/cart_empty.gif": "/static/media/cart_empty.b00cb3c1fc2da58c8d10.gif",
+    "static/media/pay.svg": "/static/media/pay.f1b1daef53ebe260fa0373f640fca95f.svg",
+    "static/media/delivered.png": "/static/media/delivered.c0273e7bc12c5c3e55b4.png",
+    "static/media/loginlogo.svg": "/static/media/loginlogo.96e83fe8a9cbde68a86119fbd5f588e9.svg",
+    "static/media/timer.png": "/static/media/timer.8814ed259623a04e792b.png",
+    "static/media/qr-scan.png": "/static/media/qr-scan.ea70e4d8d5af95f99cb6.png",
+    "static/media/cancel.png": "/static/media/cancel.a8f095413a7b84d22016.png",
+    "static/media/knife100.png": "/static/media/knife100.de32a2733f64245c8b6c.png",
+    "static/media/failed.png": "/static/media/failed.23c07579970ddd209aba.png",
+    "static/media/pay-success.svg": "/static/media/pay-success.a7244c9e5e37585ca1d09e2630bce5c4.svg",
+    "static/media/success.png": "/static/media/success.6f298cca57a5a8b36055.png",
+    "index.html": "/index.html",
+    "main.43a53583.css.map": "/static/css/main.43a53583.css.map",
+    "main.7138c5b4.js.map": "/static/js/main.7138c5b4.js.map",
+    "787.9ac2c489.chunk.js.map": "/static/js/787.9ac2c489.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43a53583.css",
+    "static/js/main.7138c5b4.js"
+  ]
+}
